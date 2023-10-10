@@ -1,0 +1,26 @@
+body {
+    background-color: cadetblue;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color:cornsilk;
+    text-indent: 30px;
+}
+
+h2 {
+    text-align: center;
+    text-transform: initial;
+    color:cornsilk;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: line-through;
+    color:cornsilk;
+}
+p{
+    text-align: justify;
+    color:aquamarine;
+    letter-spacing: normal;
+}
